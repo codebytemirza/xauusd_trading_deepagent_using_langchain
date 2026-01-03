@@ -31,7 +31,7 @@ The agent follows a strict decision tree to identify high-probability setups.
 1.  **Clone the Repository**
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/codebytemirza/xauusd_trading_deepagent_using_langchain
     cd trading_agent
     ```
 
